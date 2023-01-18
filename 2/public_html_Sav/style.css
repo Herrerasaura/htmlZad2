@@ -1,0 +1,20 @@
+h1 {text-align: center; color:#0000FF; font-family: Verdana; font-size: 20pt;}
+h2 {text-align: right; color:#800000; font-family: Verdana; font-size: 16pt;}
+p {text-align: justify; color:#191970; font-family: Arial; font-size: 12pt;}
+body {background-color: #99CCFF;}
+
+h1.main{ color:navy; font-family: Verdana; text-align: left; font-size: 14pt;}
+h1.golub{ color:blue; font-family: Verdana; text-align: left; font-size: 14pt;}
+h1.krasn{ color:red; font-family: Verdana; text-align: left; font-size: 14pt;}
+h1.zelen{ color:green; font-family: Verdana; text-align: left; font-size: 14pt;}
+h1.oranzhev{ color:orange; font-family: Verdana; text-align: left; font-size: 14pt;}
+
+p.parm{ color:navy; font-family: Verdana; text-align: center; font-size: 14pt;}
+p.par1{ color:blue; font-family: Verdana; text-align: left; font-size: 14pt;}
+p.par2{ color:red; font-family: Verdana; text-align: right; font-size: 14pt;}
+p.par3{ color:green; font-family: Verdana; text-align: justify; font-size: 14pt;}
+p.par4{ color:orange; font-family: Verdana; text-align: center; font-size: 14pt;}
+
+h3 {color:goldenrod; font-style: italic;}
+ol {color: burlywood; list-style-type: upper-roman;}
+ul {color: burlywood; list-style-type: circle;}
